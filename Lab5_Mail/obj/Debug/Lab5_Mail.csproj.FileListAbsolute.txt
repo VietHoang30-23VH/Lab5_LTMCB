@@ -1,0 +1,11 @@
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\bin\Debug\Lab5_Mail.exe.config
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\bin\Debug\Lab5_Mail.exe
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\bin\Debug\Lab5_Mail.pdb
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.csproj.AssemblyReference.cache
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.Bai1.resources
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.Menu.resources
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.Properties.Resources.resources
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.csproj.GenerateResource.cache
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.csproj.CoreCompileInputs.cache
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.exe
+D:\WindowForm C#\Lab5_LTMCB\Lab5_Mail\obj\Debug\Lab5_Mail.pdb

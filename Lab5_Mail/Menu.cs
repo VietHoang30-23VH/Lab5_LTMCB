@@ -37,7 +37,7 @@ namespace Lab5_Mail
 
         private void btnBai4_Click(object sender, EventArgs e)
         {
-            Bai4 bai4 = new Bai4();
+            Bai4 bai4=new Bai4();
             bai4.ShowDialog();
         }
 

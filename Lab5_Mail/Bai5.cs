@@ -16,5 +16,10 @@ namespace Lab5_Mail
         {
             InitializeComponent();
         }
+
+        private void Bai5_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

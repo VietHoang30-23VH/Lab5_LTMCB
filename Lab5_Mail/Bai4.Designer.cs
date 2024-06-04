@@ -40,7 +40,7 @@
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Location = new System.Drawing.Point(13, 74);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1090, 544);
+            this.panel1.Size = new System.Drawing.Size(1110, 544);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -59,7 +59,7 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(993, 13);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(110, 45);
+            this.button1.Size = new System.Drawing.Size(130, 45);
             this.button1.TabIndex = 2;
             this.button1.Text = "Đặt vé";
             this.button1.UseVisualStyleBackColor = true;
@@ -76,7 +76,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1115, 670);
+            this.ClientSize = new System.Drawing.Size(1135, 670);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);

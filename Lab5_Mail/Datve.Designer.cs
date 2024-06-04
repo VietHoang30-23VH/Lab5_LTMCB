@@ -38,22 +38,24 @@
             this.cbphong = new System.Windows.Forms.ComboBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.tbemail = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txbhoten
             // 
             this.txbhoten.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbhoten.Location = new System.Drawing.Point(159, 72);
+            this.txbhoten.Location = new System.Drawing.Point(165, 29);
             this.txbhoten.Multiline = true;
             this.txbhoten.Name = "txbhoten";
-            this.txbhoten.Size = new System.Drawing.Size(381, 46);
+            this.txbhoten.Size = new System.Drawing.Size(381, 29);
             this.txbhoten.TabIndex = 31;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(57, 89);
+            this.label5.Location = new System.Drawing.Point(57, 29);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(96, 29);
             this.label5.TabIndex = 30;
@@ -121,7 +123,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(470, 166);
+            this.label4.Location = new System.Drawing.Point(465, 162);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(95, 29);
             this.label4.TabIndex = 25;
@@ -146,7 +148,7 @@
             this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(152, 162);
+            this.comboBox1.Location = new System.Drawing.Point(165, 158);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(196, 33);
             this.comboBox1.TabIndex = 23;
@@ -155,17 +157,38 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(57, 162);
+            this.label2.Location = new System.Drawing.Point(57, 158);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(79, 29);
             this.label2.TabIndex = 22;
             this.label2.Text = "Phim:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(57, 90);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(86, 29);
+            this.label1.TabIndex = 32;
+            this.label1.Text = "Email:";
+            // 
+            // tbemail
+            // 
+            this.tbemail.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbemail.Location = new System.Drawing.Point(165, 87);
+            this.tbemail.Multiline = true;
+            this.tbemail.Name = "tbemail";
+            this.tbemail.Size = new System.Drawing.Size(381, 29);
+            this.tbemail.TabIndex = 33;
             // 
             // Datve
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(819, 532);
+            this.Controls.Add(this.tbemail);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.txbhoten);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.btxoa);
@@ -196,5 +219,7 @@
         private System.Windows.Forms.ComboBox cbphong;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox tbemail;
     }
 }

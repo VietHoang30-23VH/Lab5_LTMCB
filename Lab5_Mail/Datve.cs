@@ -1,7 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using System.Net.Mail;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using System.Net;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
+using MimeKit;
+using System.Xml.Linq;
 
 namespace Lab5_Mail
 {
@@ -30,7 +35,43 @@ namespace Lab5_Mail
             {
                 MessageBox.Show("Vui lòng chọn một phim hợp lệ.");
             }
+            SendMail(tbemail.Text,comboBox1.Text, dsphim[comboBox1.Text], txbhoten.Text, vitringoi, cbphong.Text);
         }
+        string smtp_pass = "abjj grnr pvih qdgo";
+        private void SendMail(string mail, string phim, int Giave, string Hoten, string vitringoi, string phong)
+        {
+            try
+            {
+                using (var client = new SmtpClient("smtp.gmail.com", 587))
+                {
+                    client.UseDefaultCredentials = false;
+                    client.Credentials = new NetworkCredential("nguyentaihieu004@gmail.com", smtp_pass);
+                    client.EnableSsl = true;
+
+                    using (var message = new MailMessage(new MailAddress("nguyentaihieu004@gmail.com"), new MailAddress(tbemail.Text)))
+                    {
+                        message.Subject = "Bạn đã đặt vé thành công đây là thông tin vé của bạn";
+                        message.Body = "Xin chào," + Environment.NewLine +
+                                       "Cảm ơn bạn đã đặt vé phim. Dưới đây là thông tin chi tiết:" + Environment.NewLine +
+                                       "Khách hàng: " + Hoten + Environment.NewLine +
+                                       "Phim: " + phim + Environment.NewLine +
+                                       "Phòng: " + phong + Environment.NewLine +
+                                       "Vị trí ngồi: " + vitringoi + Environment.NewLine +
+                                       "Giá vé: " + Giave + Environment.NewLine +
+                                       "Xin cảm ơn!";
+
+                        client.Send(message);
+                        MessageBox.Show("Email sent successfully!");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+
 
         private string[] LayPhanTuDaChon()
         {

@@ -43,7 +43,7 @@ namespace Lab5_Mail
 
         private void btnBai5_Click(object sender, EventArgs e)
         {
-            Bai5 bai5 = new Bai5();
+            Bai5_Login bai5 = new Bai5_Login();
             bai5.ShowDialog();
         }
 

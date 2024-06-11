@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "D:\\WindowForm C#\\Lab5_LTMCB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_displayfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_displayfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|d:\\windowform c#\\lab5_ltmcb\\lab5_mail\\emailsetting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\emailsetting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|d:\\windowform c#\\lab5_ltmcb\\lab5_mail\\bai5_invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|d:\\windowform c#\\lab5_ltmcb\\lab5_mail\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|d:\\windowform c#\\lab5_ltmcb\\lab5_mail\\bai5_invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|d:\\windowform c#\\lab5_ltmcb\\lab5_mail\\bai5_displayfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_displayfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|d:\\windowform c#\\lab5_ltmcb\\lab5_mail\\bai5_invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|D:\\WindowForm C#\\Lab5_LTMCB\\lab5_mail\\bai5_displayfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755C7203-ED1D-4401-83F5-9AE6AF452276}|Lab5_Mail\\Lab5_Mail.csproj|solutionrelative:lab5_mail\\bai5_displayfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -41,24 +81,12 @@
               "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Invitation.cs [Design]",
               "RelativeToolTip": "Lab5_Mail\\Bai5_Invitation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:28:36.631Z",
+              "WhenOpened": "2024-06-06T16:33:18.016Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bai5_DisplayFood.cs [Design]",
-              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_DisplayFood.cs",
-              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_DisplayFood.cs",
-              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_DisplayFood.cs [Design]",
-              "RelativeToolTip": "Lab5_Mail\\Bai5_DisplayFood.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T15:17:56.886Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Bai5_Invite.cs [Design]",
               "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Invite.cs",
               "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_Invite.cs",
@@ -70,28 +98,161 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai5_AddFood.cs [Design]",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_AddFood.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_AddFood.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_AddFood.cs [Design]",
+              "RelativeToolTip": "Lab5_Mail\\Bai5_AddFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:33:46.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSetting.cs [Design]",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\EmailSetting.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\EmailSetting.cs [Design]",
+              "RelativeToolTip": "Lab5_Mail\\EmailSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:35:32.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai5_DisplayFood.cs [Design]",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_DisplayFood.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_DisplayFood.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_DisplayFood.cs [Design]",
+              "RelativeToolTip": "Lab5_Mail\\Bai5_DisplayFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:33:31.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai5_Invite.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Invite.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_Invite.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Invite.cs",
+              "RelativeToolTip": "Lab5_Mail\\Bai5_Invite.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwDAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:30:18.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSetting.Designer.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\EmailSetting.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\EmailSetting.Designer.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\EmailSetting.Designer.cs",
+              "RelativeToolTip": "Lab5_Mail\\EmailSetting.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAD4vzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:10:34.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\EmailSetting.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\EmailSetting.cs",
+              "RelativeToolTip": "Lab5_Mail\\EmailSetting.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAIAwwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:35:34.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai5_Invitation.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Invitation.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_Invitation.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Invitation.cs",
+              "RelativeToolTip": "Lab5_Mail\\Bai5_Invitation.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwEcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:33:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Bai5.cs",
               "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5.cs",
               "RelativeDocumentMoniker": "Lab5_Mail\\Bai5.cs",
               "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5.cs",
               "RelativeToolTip": "Lab5_Mail\\Bai5.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAgwJEAAAANAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAtwHMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T11:22:01.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T11:22:01.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Bai5.cs [Design]",
               "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5.cs",
               "RelativeDocumentMoniker": "Lab5_Mail\\Bai5.cs",
               "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5.cs [Design]",
               "RelativeToolTip": "Lab5_Mail\\Bai5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:45:52.431Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-30T07:45:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai5.Designer.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5.Designer.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5.Designer.cs",
+              "RelativeToolTip": "Lab5_Mail\\Bai5.Designer.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAQwMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:54:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bai5_Food.cs [Design]",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Food.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_Food.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_Food.cs [Design]",
+              "RelativeToolTip": "Lab5_Mail\\Bai5_Food.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:33:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai1.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai1.cs [Design]",
+              "RelativeToolTip": "Lab5_Mail\\Bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:02:34.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bai5_DisplayFood.cs",
+              "DocumentMoniker": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_DisplayFood.cs",
+              "RelativeDocumentMoniker": "Lab5_Mail\\Bai5_DisplayFood.cs",
+              "ToolTip": "D:\\WindowForm C#\\Lab5_LTMCB\\Lab5_Mail\\Bai5_DisplayFood.cs",
+              "RelativeToolTip": "Lab5_Mail\\Bai5_DisplayFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:33:50.099Z",
+              "EditorCaption": ""
             }
           ]
         }

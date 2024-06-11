@@ -34,7 +34,7 @@ namespace Lab5_Mail
             }
             else
             {
-                MessageBox.Show("Bạn chưa nhập email của bạn bè mà bạn muốn mời");
+                MessageBox.Show("Enter your friend email!");
             }
         }
 
@@ -58,7 +58,7 @@ namespace Lab5_Mail
                     MimeMessage mimeMessage = new MimeMessage();
                     mimeMessage.From.Add(new MailboxAddress("", config.Username));
                     mimeMessage.To.Add(new MailboxAddress("", listView1.Items[i].Text));
-                    mimeMessage.Subject = "Bạn có một lời mời đi ăn";
+                    mimeMessage.Subject = "You have an invitation";
                     string[] chuoi = in4.Split(',');
                     string monan = chuoi[0];
                     string gia = chuoi[1];
@@ -91,11 +91,11 @@ namespace Lab5_Mail
                          </html>"
                     };
                     smtpClient.Send(mimeMessage);
-                    MessageBox.Show("Connection successful");
+                    MessageBox.Show("Send successful");
                 }
                 catch
                 {
-                    MessageBox.Show("Connection failed");
+                    MessageBox.Show("Send failed");
                 }
             }
         }

@@ -41,7 +41,7 @@ namespace Lab5_Mail
             var folder = await mailClient.GetFolderAsync(Constants.FOLDER_READ);
             await folder.OpenAsync(FolderAccess.ReadWrite);
 
-            var searchQuery = SearchQuery.SubjectContains("bạn có một lời mời");
+            var searchQuery = SearchQuery.SubjectContains("You have an invitation");
             IList<UniqueId> uids = await folder.SearchAsync(searchQuery);
 
             foreach (UniqueId uid in uids)

@@ -34,7 +34,7 @@ namespace Lab5_Mail
                 smtpClient.Authenticate(txtname.Text, txtmatkhau.Text);
                 MimeMessage mimeMessage = new MimeMessage();
                 mimeMessage.From.Add(new MailboxAddress(txtnickname.Text, txtname.Text));
-                mimeMessage.To.Add(new MailboxAddress("", "22520300@gm.uit.edu.vn"));
+                mimeMessage.To.Add(new MailboxAddress("", "22521124@gm.uit.edu.vn"));
                 mimeMessage.Body = new TextPart("plain")
                 {
                     Text = "Test",

@@ -217,15 +217,17 @@
             this.lbNum.AutoSize = true;
             this.lbNum.Location = new System.Drawing.Point(515, 9);
             this.lbNum.Name = "lbNum";
-            this.lbNum.Size = new System.Drawing.Size(16, 25);
+            this.lbNum.Size = new System.Drawing.Size(27, 25);
             this.lbNum.TabIndex = 43;
-            this.lbNum.Text = "l";
+            this.lbNum.Text = "...";
+            this.lbNum.TextChanged += new System.EventHandler(this.lbNum_TextChanged);
+            this.lbNum.Click += new System.EventHandler(this.lbNum_Click);
             // 
             // Bai5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(658, 653);
+            this.ClientSize = new System.Drawing.Size(650, 653);
             this.Controls.Add(this.lbNum);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btnCount);

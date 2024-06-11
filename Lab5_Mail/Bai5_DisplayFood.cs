@@ -27,7 +27,7 @@ namespace Lab5_Mail
         {
             if (!EmailSetting.IsEmailConfigured)
             {
-                MessageBox.Show("Bạn cần cài đặt Email Server để sử dụng tính năng này", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Setting Email Server to use this feature", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 EmailSetting emailSetting = new EmailSetting();
                 emailSetting.Show();
             }

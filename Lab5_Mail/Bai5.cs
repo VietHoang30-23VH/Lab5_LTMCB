@@ -257,6 +257,18 @@ namespace Lab5_Mail
             }
         }
 
+        private void lbNum_TextChanged(object sender, EventArgs e)
+        {
+            Bai5_Invitation bai5_Invitation = new Bai5_Invitation();
+            bai5_Invitation.Show();
+        }
+
+        private void lbNum_Click(object sender, EventArgs e)
+        {
+            Bai5_Invitation bai5_Invitation = new Bai5_Invitation();
+            bai5_Invitation.Show();
+        }
+
         private void btnConfig_Click(object sender, EventArgs e)
         {
             EmailSetting emailSetting = new EmailSetting();
@@ -272,7 +284,7 @@ namespace Lab5_Mail
             var folder = await mailClient.GetFolderAsync(Constants.FOLDER_READ);
             await folder.OpenAsync(FolderAccess.ReadWrite);
 
-            var searchQuery = SearchQuery.SubjectContains("bạn có một lời mời");
+            var searchQuery = SearchQuery.SubjectContains("You have an invitation");
             IList<UniqueId> uids = await folder.SearchAsync(searchQuery);
             int emailCount = 0; // Initialize email count
 

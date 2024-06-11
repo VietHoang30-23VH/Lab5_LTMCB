@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button3 = new System.Windows.Forms.Button();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnConnect = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -56,17 +55,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.LightCoral;
-            this.button3.Location = new System.Drawing.Point(389, 228);
-            this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(158, 30);
-            this.button3.TabIndex = 19;
-            this.button3.Text = "nhận dữ liệu gmail";
-            this.button3.UseVisualStyleBackColor = false;
-            // 
             // btnSave
             // 
             this.btnSave.BackColor = System.Drawing.Color.LightCoral;
@@ -82,10 +70,10 @@
             // btnConnect
             // 
             this.btnConnect.BackColor = System.Drawing.Color.LightCoral;
-            this.btnConnect.Location = new System.Drawing.Point(388, 262);
+            this.btnConnect.Location = new System.Drawing.Point(388, 231);
             this.btnConnect.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnConnect.Name = "btnConnect";
-            this.btnConnect.Size = new System.Drawing.Size(158, 28);
+            this.btnConnect.Size = new System.Drawing.Size(158, 59);
             this.btnConnect.TabIndex = 17;
             this.btnConnect.Text = "Test connection";
             this.btnConnect.UseVisualStyleBackColor = false;
@@ -311,7 +299,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(558, 393);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.groupBox2);
@@ -331,8 +318,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Button btnConnect;
         private System.Windows.Forms.GroupBox groupBox2;
